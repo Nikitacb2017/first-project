@@ -1,4 +1,11 @@
 .text-1 {
-  color: aqua;
+  color: rgb(154, 187, 187);
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.nav1 {
+  background-color: rgb(240, 231, 220);
+  width: auto;
+  height: 100px;
 }
